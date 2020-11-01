@@ -27,14 +27,14 @@
   [
     {
       "id":1,
-      "judul":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "judul":"Jungkook",
+      "image":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
     },
     {
       "id":2,
-      "judul":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "judul":"Jungkook",
+      "image":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp2.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
     },
     {
@@ -66,9 +66,9 @@
   [
     {
       "id":1,
-      "name":"Ludo King",
-      "image_url":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "video_url":"http://hexa.web.id/footbal.mov",
+      "name":"Image 1",
+      "image_url":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp.jpg",
+      "video_url":"https://muridreborn.github.io/img/fc-bts-jungkook/jungkook1.mp4",
       "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
     },
     {
