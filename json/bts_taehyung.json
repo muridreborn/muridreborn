@@ -1,0 +1,111 @@
+{
+  "Iklan": [
+      {
+      "status": "0",
+      "link": "https://play.google.com/store/apps/details?id=",
+      "appid": "pub-7256696579190832",
+      "admobappid": "ca-app-pub-7256696579190832~4300400606",
+      "interid": "ca-app-pub-3940256099942544/1033173712",
+      "nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "startappid": "209419592",
+      "pengaturan_iklan": "4",
+      "deskripsi_update": "Update this apps ?",
+      "link_update": "https://www.google.com/",
+      "version_app": 3,
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"Taehyung",
+      "image":"https://muridreborn.github.io/img/taehyung/01.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "judul":"Taehyung",
+      "image":"https://muridreborn.github.io/img/taehyung/02.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "judul":"Taehyung",
+      "image":"https://muridreborn.github.io/img/taehyung/03.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    },
+    {
+      "id":4,
+      "judul":"Taehyung",
+      "image":"https://muridreborn.github.io/img/taehyung/04.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.sega.sonic1px"
+    },
+    {
+      "id":5,
+      "judul":"Taehyung",
+      "image":"https://muridreborn.github.io/img/taehyung/05.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
+    },
+    {
+      "id":6,
+      "judul":"Taehyung",
+      "image":"https://muridreborn.github.io/img/taehyung/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"BTS Taehyung",
+      "image_url":"https://muridreborn.github.io/img/taehyung/01.jpg",
+      "video_url":"https://muridreborn.github.io/img/taehyung/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/taehyung/musik01.mp3"
+    },
+    {
+      "id":2,
+      "name":"BTS Taehyung",
+      "image_url":"https://muridreborn.github.io/img/taehyung/02.jpg",
+      "video_url":"https://muridreborn.github.io/img/taehyung/video02.mp4",
+      "voice_url":"https://muridreborn.github.io/img/taehyung/musik01.mp3"
+    },
+    {
+      "id":3,
+      "name":"BTS Taehyung",
+      "image_url":"https://muridreborn.github.io/img/taehyung/03.jpg",
+      "video_url":"https://muridreborn.github.io/img/taehyung/video03.mp4",
+      "voice_url":"https://muridreborn.github.io/img/taehyung/musik01.mp3"
+    },
+    {
+      "id":4,
+      "name":"BTS Taehyung",
+      "image_url":"https://muridreborn.github.io/img/taehyung/04.jpg",
+      "video_url":"https://muridreborn.github.io/img/taehyung/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/taehyung/musik01.mp3"
+    },
+    {
+      "id":5,
+      "name":"BTS Taehyung",
+      "image_url":"https://muridreborn.github.io/img/taehyung/05.jpg",
+      "video_url":"https://muridreborn.github.io/img/taehyung/video02.mp4",
+      "voice_url":"https://muridreborn.github.io/img/taehyung/musik01.mp3"
+    },
+    {
+      "id":6,
+      "name":"BTS Taehyung",
+      "image_url":"https://muridreborn.github.io/img/taehyung/06.jpg",
+      "video_url":"https://muridreborn.github.io/img/taehyung/video03.mp4",
+      "voice_url":"https://muridreborn.github.io/img/taehyung/musik01.mp3"
+    }
+  ]
+
+}
