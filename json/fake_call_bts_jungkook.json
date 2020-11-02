@@ -28,37 +28,37 @@
     {
       "id":1,
       "judul":"Jungkook",
-      "image":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp.jpg",
+      "image":"https://muridreborn.github.io/img/jungkook/01.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
     },
     {
       "id":2,
       "judul":"Jungkook",
-      "image":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp2.jpg",
+      "image":"https://muridreborn.github.io/img/jungkook/02.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
     },
     {
       "id":3,
       "judul":"Jungkook",
-      "image":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp3.jpg",
+      "image":"https://muridreborn.github.io/img/jungkook/03.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
     },
     {
       "id":4,
       "judul":"Jungkook",
-      "image":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp.jpg",
+      "image":"https://muridreborn.github.io/img/jungkook/04.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.sega.sonic1px"
     },
     {
       "id":5,
       "judul":"Jungkook",
-      "image":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp2.jpg",
+      "image":"https://muridreborn.github.io/img/jungkook/05.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
     },
     {
       "id":6,
       "judul":"Jungkook",
-      "image":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp3.jpg",
+      "image":"https://muridreborn.github.io/img/jungkook/06.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
     }
   ],
@@ -67,44 +67,44 @@
     {
       "id":1,
       "name":"Image 1",
-      "image_url":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp.jpg",
-      "video_url":"https://muridreborn.github.io/img/fc-bts-jungkook/jungkook1.mp4",
-      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+      "image_url":"https://muridreborn.github.io/img/jungkook/01.jpg",
+      "video_url":"https://muridreborn.github.io/img/jungkook/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
     },
     {
       "id":2,
       "name":"Image 2",
-      "image_url":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp2.jpg",
-      "video_url":"https://muridreborn.github.io/img/fc-bts-jungkook/jungkook2.mp4",
-      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+      "image_url":"https://muridreborn.github.io/img/jungkook/02.jpg",
+      "video_url":"https://muridreborn.github.io/img/jungkook/video02.mp4",
+      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
     },
     {
       "id":3,
       "name":"Image 3",
-      "image_url":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp3.jpg",
-      "video_url":"https://muridreborn.github.io/img/fc-bts-jungkook/jungkook1.mp4",
-      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+      "image_url":"https://muridreborn.github.io/img/jungkook/03.jpg",
+      "video_url":"https://muridreborn.github.io/img/jungkook/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
     },
     {
       "id":4,
       "name":"Image 4",
-      "image_url":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp2.jpg",
-      "video_url":"https://muridreborn.github.io/img/fc-bts-jungkook/jungkook2.mp4",
-      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+      "image_url":"https://muridreborn.github.io/img/jungkook/04.jpg",
+      "video_url":"https://muridreborn.github.io/img/jungkook/video02.mp4",
+      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
     },
     {
       "id":5,
       "name":"Image 5",
-      "image_url":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp3.jpg",
-      "video_url":"https://muridreborn.github.io/img/fc-bts-jungkook/jungkook1.mp4",
-      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+      "image_url":"https://muridreborn.github.io/img/jungkook/05.jpg",
+      "video_url":"https://muridreborn.github.io/img/jungkook/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
     },
     {
       "id":6,
       "name":"Image 6",
-      "image_url":"https://muridreborn.github.io/img/fc-bts-jungkook/moreapp.jpg",
-      "video_url":"https://muridreborn.github.io/img/fc-bts-jungkook/jungkook2.mp4",
-      "voice_url":"http://hexa.web.id/dosa_membawa_keburukan.mp3"
+      "image_url":"https://muridreborn.github.io/img/jungkook/06.jpg",
+      "video_url":"https://muridreborn.github.io/img/jungkook/video02.mp4",
+      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
     }
   ]
 
