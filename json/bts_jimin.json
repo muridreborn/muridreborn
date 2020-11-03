@@ -27,39 +27,39 @@
   [
     {
       "id":1,
-      "judul":"Jimin",
-      "image":"https://muridreborn.github.io/img/jimin/01.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "judul":"Jungkook",
+      "image":"https://muridreborn.github.io/img/jungkook/01.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     },
     {
       "id":2,
       "judul":"Jimin",
       "image":"https://muridreborn.github.io/img/jimin/02.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     },
     {
       "id":3,
       "judul":"Jimin",
       "image":"https://muridreborn.github.io/img/jimin/03.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     },
     {
       "id":4,
       "judul":"Jimin",
       "image":"https://muridreborn.github.io/img/jimin/04.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.sega.sonic1px"
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     },
     {
       "id":5,
       "judul":"Jimin",
       "image":"https://muridreborn.github.io/img/jimin/05.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     },
     {
       "id":6,
       "judul":"Jimin",
       "image":"https://muridreborn.github.io/img/jimin/06.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     }
   ],
   "Item":

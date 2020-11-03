@@ -2,15 +2,15 @@
   "Iklan": [
       {
       "status": "0",
-      "link": "https://play.google.com/store/apps/details?id=",
+      "link": "https://play.google.com/store/apps/details?id=com.mrd.btsjungkook",
       "appid": "pub-7256696579190832",
       "admobappid": "ca-app-pub-7256696579190832~4300400606",
-      "interid": "ca-app-pub-3940256099942544/1033173712",
-      "nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "interid": "ca-app-pub-7256696579190832/4657786962",
+      "nativeid": "ca-app-pub-7256696579190832/1826134716",
       "startappid": "209419592",
-      "pengaturan_iklan": "4",
-      "deskripsi_update": "Update this apps ?",
-      "link_update": "https://www.google.com/",
+      "pengaturan_iklan": "1",
+      "deskripsi_update": "Rate this apps ?",
+      "link_update": "https://play.google.com/store/apps/details?id=com.mrd.btsjungkook",
       "version_app": 3,
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
@@ -29,37 +29,37 @@
       "id":1,
       "judul":"Jungkook",
       "image":"https://muridreborn.github.io/img/jungkook/01.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     },
     {
       "id":2,
       "judul":"Jungkook",
       "image":"https://muridreborn.github.io/img/jungkook/02.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     },
     {
       "id":3,
       "judul":"Jungkook",
       "image":"https://muridreborn.github.io/img/jungkook/03.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     },
     {
       "id":4,
       "judul":"Jungkook",
       "image":"https://muridreborn.github.io/img/jungkook/04.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.sega.sonic1px"
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     },
     {
       "id":5,
       "judul":"Jungkook",
       "image":"https://muridreborn.github.io/img/jungkook/05.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     },
     {
       "id":6,
       "judul":"Jungkook",
       "image":"https://muridreborn.github.io/img/jungkook/06.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     }
   ],
   "Item":
