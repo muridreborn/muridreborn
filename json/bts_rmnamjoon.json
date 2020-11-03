@@ -33,33 +33,33 @@
     },
     {
       "id":2,
-      "judul":"RM - Kim Namjoon",
-      "image":"https://muridreborn.github.io/img/rmnamjoon/02.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsrmnamjoon"
+      "judul":"BTS J-hope",
+      "image":"https://muridreborn.github.io/img/jhope/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjhope"
     },
     {
       "id":3,
-      "judul":"RM - Kim Namjoon",
-      "image":"https://muridreborn.github.io/img/rmnamjoon/03.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsrmnamjoon"
+      "judul":"BTS Jimin",
+      "image":"https://muridreborn.github.io/img/jimin/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjimin"
     },
     {
       "id":4,
-      "judul":"RM - Kim Namjoon",
+      "judul":"BTS RM",
       "image":"https://muridreborn.github.io/img/rmnamjoon/04.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btsrmnamjoon"
     },
     {
       "id":5,
-      "judul":"RM - Kim Namjoon",
-      "image":"https://muridreborn.github.io/img/rmnamjoon/05.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsrmnamjoon"
+      "judul":"BTS Suga",
+      "image":"https://muridreborn.github.io/img/suga/05.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btssuga"
     },
     {
       "id":6,
-      "judul":"RM - Kim Namjoon",
-      "image":"https://muridreborn.github.io/img/rmnamjoon/06.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsrmnamjoon"
+      "judul":"BTS V",
+      "image":"https://muridreborn.github.io/img/taehyung/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btstaehyung"
     }
   ],
   "Item":
