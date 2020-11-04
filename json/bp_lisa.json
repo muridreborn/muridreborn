@@ -2,7 +2,7 @@
   "Iklan": [
       {
       "status": "0",
-      "link": "https://play.google.com/store/apps/details?id=com.mrd.btsjhope",
+      "link": "https://play.google.com/store/apps/details?id=com.mrd.bplisa",
       "appid": "pub-7256696579190832",
       "admobappid": "ca-app-pub-7256696579190832~4300400606",
       "interid": "ca-app-pub-7256696579190832/4657786962",
@@ -10,7 +10,7 @@
       "startappid": "209419592",
       "pengaturan_iklan": "4",
       "deskripsi_update": "Rate this apps ?",
-      "link_update": "https://play.google.com/store/apps/details?id=com.mrd.btsjhope",
+      "link_update": "https://play.google.com/store/apps/details?id=com.mrd.bplisa",
       "version_app": 3,
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
@@ -66,45 +66,45 @@
   [
     {
       "id":1,
-      "name":"BTS J-hope",
-      "image_url":"https://muridreborn.github.io/img/jhope/01.jpg",
-      "video_url":"https://muridreborn.github.io/img/jhope/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
+      "name":"Lisa Blackpink",
+      "image_url":"https://muridreborn.github.io/img/bplisa/01.jpg",
+      "video_url":"https://muridreborn.github.io/img/bplisa/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":2,
-      "name":"BTS J-hope",
-      "image_url":"https://muridreborn.github.io/img/jhope/02.jpg",
-      "video_url":"https://muridreborn.github.io/img/jhope/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
+      "name":"Lisa Blackpink",
+      "image_url":"https://muridreborn.github.io/img/bplisa/02.jpg",
+      "video_url":"https://muridreborn.github.io/img/bplisa/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":3,
-      "name":"BTS J-hope",
-      "image_url":"https://muridreborn.github.io/img/jhope/03.jpg",
-      "video_url":"https://muridreborn.github.io/img/jhope/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
+      "name":"Lisa Blackpink",
+      "image_url":"https://muridreborn.github.io/img/bplisa/03.jpg",
+      "video_url":"https://muridreborn.github.io/img/bplisa/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":4,
-      "name":"BTS J-hope",
-      "image_url":"https://muridreborn.github.io/img/jhope/04.jpg",
-      "video_url":"https://muridreborn.github.io/img/jhope/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
+      "name":"Lisa Blackpink",
+      "image_url":"https://muridreborn.github.io/img/bplisa/04.jpg",
+      "video_url":"https://muridreborn.github.io/img/bplisa/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":5,
-      "name":"BTS J-hope",
-      "image_url":"https://muridreborn.github.io/img/jhope/05.jpg",
-      "video_url":"https://muridreborn.github.io/img/jhope/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
+      "name":"Lisa Blackpink",
+      "image_url":"https://muridreborn.github.io/img/bplisa/05.jpg",
+      "video_url":"https://muridreborn.github.io/img/bplisa/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":6,
-      "name":"BTS J-hope",
-      "image_url":"https://muridreborn.github.io/img/jhope/06.jpg",
-      "video_url":"https://muridreborn.github.io/img/jhope/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
+      "name":"Lisa Blackpink",
+      "image_url":"https://muridreborn.github.io/img/bplisa/06.jpg",
+      "video_url":"https://muridreborn.github.io/img/bplisa/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     }
   ]
 
