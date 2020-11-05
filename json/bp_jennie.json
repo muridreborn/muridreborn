@@ -2,13 +2,13 @@
   "Iklan": [
       {
       "status": "0",
-      "link": "https://play.google.com/store/apps/details?id=com.mrd.btsrmnamjoon",
+      "link": "https://play.google.com/store/apps/details?id=com.mrd.bpjennie",
       "appid": "pub-7256696579190832",
       "admobappid": "ca-app-pub-7256696579190832~4300400606",
       "interid": "ca-app-pub-7256696579190832/4657786962",
       "nativeid": "ca-app-pub-7256696579190832/1826134716",
       "startappid": "209419592",
-      "pengaturan_iklan": "1",
+      "pengaturan_iklan": "4",
       "deskripsi_update": "Download other applications?",
       "link_update": "https://play.google.com/store/apps/developer?id=MURID+DEVELOPER",
       "version_app": 3,
@@ -66,45 +66,45 @@
   [
     {
       "id":1,
-      "name":"BTS RM - Kim Namjoon",
-      "image_url":"https://muridreborn.github.io/img/rmnamjoon/01.jpg",
-      "video_url":"https://muridreborn.github.io/img/rmnamjoon/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
+      "name":"Jennie Blackpink",
+      "image_url":"https://muridreborn.github.io/img/bpjennie/01.jpg",
+      "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":2,
-      "name":"BTS RM - Kim Namjoon",
-      "image_url":"https://muridreborn.github.io/img/rmnamjoon/02.jpg",
-      "video_url":"https://muridreborn.github.io/img/rmnamjoon/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
+      "name":"Jennie Blackpink",
+      "image_url":"https://muridreborn.github.io/img/bpjennie/02.jpg",
+      "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":3,
-      "name":"BTS RM - Kim Namjoon",
-      "image_url":"https://muridreborn.github.io/img/rmnamjoon/03.jpg",
-      "video_url":"https://muridreborn.github.io/img/rmnamjoon/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
+      "name":"Jennie Blackpink",
+      "image_url":"https://muridreborn.github.io/img/bpjennie/03.jpg",
+      "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":4,
-      "name":"BTS RM - Kim Namjoon",
-      "image_url":"https://muridreborn.github.io/img/rmnamjoon/04.jpg",
-      "video_url":"https://muridreborn.github.io/img/rmnamjoon/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
+      "name":"Jennie Blackpink",
+      "image_url":"https://muridreborn.github.io/img/bpjennie/04.jpg",
+      "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":5,
-      "name":"BTS RM - Kim Namjoon",
-      "image_url":"https://muridreborn.github.io/img/rmnamjoon/05.jpg",
-      "video_url":"https://muridreborn.github.io/img/rmnamjoon/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
+      "name":"Jennie Blackpink",
+      "image_url":"https://muridreborn.github.io/img/bpjennie/05.jpg",
+      "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":6,
-      "name":"BTS RM - Kim Namjoon",
-      "image_url":"https://muridreborn.github.io/img/rmnamjoon/06.jpg",
-      "video_url":"https://muridreborn.github.io/img/rmnamjoon/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
+      "name":"Jennie Blackpink",
+      "image_url":"https://muridreborn.github.io/img/bpjennie/06.jpg",
+      "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     }
   ]
 
