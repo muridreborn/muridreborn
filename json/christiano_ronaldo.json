@@ -2,15 +2,15 @@
   "Iklan": [
       {
       "status": "0",
-      "link": "https://play.google.com/store/apps/details?id=com.mrd.bpjennie",
+      "link": "https://play.google.com/store/apps/details?id=com.mrd.christianoronaldo",
       "appid": "pub-7256696579190832",
       "admobappid": "ca-app-pub-7256696579190832~4300400606",
       "interid": "ca-app-pub-7256696579190832/4657786962",
       "nativeid": "ca-app-pub-7256696579190832/1826134716",
       "startappid": "209419592",
       "pengaturan_iklan": "4",
-      "deskripsi_update": "Update this apps ?",
-      "link_update": "https://play.google.com/store/apps/details?id=com.mrd.bpjennie",
+      "deskripsi_update": "Update this apps?",
+      "link_update": "https://play.google.com/store/apps/details?id=com.mrd.christianoronaldo",
       "version_app": 3,
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
@@ -66,42 +66,42 @@
   [
     {
       "id":1,
-      "name":"Jennie Blackpink",
+      "name":"Christiano Ronaldo",
       "image_url":"https://muridreborn.github.io/img/bpjennie/01.jpg",
       "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
       "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":2,
-      "name":"Jennie Blackpink",
+      "name":"Christiano Ronaldo",
       "image_url":"https://muridreborn.github.io/img/bpjennie/02.jpg",
       "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
       "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":3,
-      "name":"Jennie Blackpink",
+      "name":"Christiano Ronaldo",
       "image_url":"https://muridreborn.github.io/img/bpjennie/03.jpg",
       "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
       "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":4,
-      "name":"Jennie Blackpink",
+      "name":"Christiano Ronaldo",
       "image_url":"https://muridreborn.github.io/img/bpjennie/04.jpg",
       "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
       "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":5,
-      "name":"Jennie Blackpink",
+      "name":"Christiano Ronaldo",
       "image_url":"https://muridreborn.github.io/img/bpjennie/05.jpg",
       "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
       "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
     },
     {
       "id":6,
-      "name":"Jennie Blackpink",
+      "name":"Christiano Ronaldo",
       "image_url":"https://muridreborn.github.io/img/bpjennie/06.jpg",
       "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
       "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
