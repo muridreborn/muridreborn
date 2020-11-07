@@ -42,15 +42,15 @@
     "Iklan": [
         {
         "status": "0",
-        "link": "https://play.google.com/store/apps/details?id=",
+        "link": "https://play.google.com/store/apps/details?id=com.mrd.btsjhope",
 
-        "url_webview": "https://www.google.com/",
+        "url_webview": "https://muridreborn.github.io/webview/",
 
         "appid": "pub-7256696579190832",
         "admobappid": "ca-app-pub-7256696579190832~4300400606",
         "interid": "ca-app-pub-7256696579190832/4657786962",
         "bannerid":"ca-app-pub-7256696579190832/1543209474",
-        "openid":"",
+        "openid":"ca-app-pub-7256696579190832/7451040068",
     
         "pengaturan_iklan":"4",
        
