@@ -1,0 +1,74 @@
+{  
+    "More":
+  [
+  {
+    "id":1,
+    "judul":"BTS Jungkook",
+    "image":"https://muridreborn.github.io/img/jungkook/01.jpg",
+    "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
+  },
+  {
+    "id":2,
+    "judul":"BTS J-hope",
+    "image":"https://muridreborn.github.io/img/jhope/06.jpg",
+    "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjhope"
+  },
+  {
+    "id":3,
+    "judul":"BTS Jimin",
+    "image":"https://muridreborn.github.io/img/jimin/06.jpg",
+    "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjimin"
+  },
+  {
+    "id":4,
+    "judul":"BTS RM",
+    "image":"https://muridreborn.github.io/img/rmnamjoon/04.jpg",
+    "link":"https://play.google.com/store/apps/details?id=com.mrd.btsrmnamjoon"
+  },
+  {
+    "id":5,
+    "judul":"BTS Suga",
+    "image":"https://muridreborn.github.io/img/suga/05.jpg",
+    "link":"https://play.google.com/store/apps/details?id=com.mrd.btssuga"
+  },
+  {
+    "id":6,
+    "judul":"BTS V",
+    "image":"https://muridreborn.github.io/img/taehyung/06.jpg",
+    "link":"https://play.google.com/store/apps/details?id=com.mrd.btstaehyung"
+  }
+],
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+
+        "url_webview": "https://www.google.com/",
+
+        "appid": "pub-7256696579190832",
+        "admobappid": "ca-app-pub-7256696579190832~4300400606",
+        "interid": "ca-app-pub-7256696579190832/4657786962",
+        "bannerid":"ca-app-pub-7256696579190832/1543209474",
+        "openid":"",
+    
+        "pengaturan_iklan":"4",
+       
+        
+        "fan_inter":"",
+        "fan_banner":"",
+
+        "interval":5,
+        "startappid":"209419592",
+
+        
+        "hpk_admob1":"",
+        "hpk_admob2":"",
+        "hpk_admob3":"",
+        "hpk_admob4":"",
+        "hpk_admob5":""
+  
+
+        }
+    ]
+}
