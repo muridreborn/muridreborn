@@ -36,6 +36,36 @@
     "judul":"BTS V",
     "image":"https://muridreborn.github.io/img/taehyung/06.jpg",
     "link":"https://play.google.com/store/apps/details?id=com.mrd.btstaehyung"
+  },
+  {
+    "id":7,
+    "judul":"BTS Jin",
+    "image":"https://muridreborn.github.io/img/jin/06.jpg",
+    "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjin"
+  },
+  {
+    "id":8,
+    "judul":"Jennie Blackpink",
+    "image":"https://muridreborn.github.io/img/bpjennie/06.jpg",
+    "link":"https://play.google.com/store/apps/details?id=com.mrd.bpjennie"
+  },
+  {
+    "id":9,
+    "judul":"Jisoo Blackpink",
+    "image":"https://muridreborn.github.io/img/bpjisoo/06.jpg",
+    "link":"https://play.google.com/store/apps/details?id=com.mrd.bpjisoo"
+  },
+  {
+    "id":10,
+    "judul":"Lisa Blackpink",
+    "image":"https://muridreborn.github.io/img/bplisa/06.jpg",
+    "link":"https://play.google.com/store/apps/details?id=com.mrd.bplisa"
+  },
+  {
+    "id":11,
+    "judul":"Rose Blackpink",
+    "image":"https://muridreborn.github.io/img/bprose/06.jpg",
+    "link":"https://play.google.com/store/apps/details?id=com.mrd.bprose"
   }
 ],
     

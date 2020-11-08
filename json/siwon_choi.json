@@ -8,7 +8,7 @@
       "interid": "ca-app-pub-7256696579190832/4657786962",
       "nativeid": "ca-app-pub-7256696579190832/1826134716",
       "startappid": "209419592",
-      "pengaturan_iklan": "4",
+      "pengaturan_iklan": "1",
       "deskripsi_update": "Update this apps ?",
       "link_update": "https://play.google.com/store/apps/details?id=com.mrd.siwonchoi",
       "version_app": 3,
@@ -60,6 +60,36 @@
       "judul":"BTS V",
       "image":"https://muridreborn.github.io/img/taehyung/06.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btstaehyung"
+    },
+    {
+      "id":7,
+      "judul":"BTS Jin",
+      "image":"https://muridreborn.github.io/img/jin/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjin"
+    },
+    {
+      "id":8,
+      "judul":"Jennie Blackpink",
+      "image":"https://muridreborn.github.io/img/bpjennie/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.bpjennie"
+    },
+    {
+      "id":9,
+      "judul":"Jisoo Blackpink",
+      "image":"https://muridreborn.github.io/img/bpjisoo/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.bpjisoo"
+    },
+    {
+      "id":10,
+      "judul":"Lisa Blackpink",
+      "image":"https://muridreborn.github.io/img/bplisa/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.bplisa"
+    },
+    {
+      "id":11,
+      "judul":"Rose Blackpink",
+      "image":"https://muridreborn.github.io/img/bprose/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.bprose"
     }
   ],
   "Item":
