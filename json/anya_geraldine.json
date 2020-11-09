@@ -1,0 +1,141 @@
+{
+  "Iklan": [
+      {
+      "status": "0",
+      "link": "https://play.google.com/store/apps/details?id=com.mrd.siwonchoi",
+      "appid": "pub-7256696579190832",
+      "admobappid": "ca-app-pub-7256696579190832~4300400606",
+      "interid": "ca-app-pub-7256696579190832/4657786962",
+      "nativeid": "ca-app-pub-7256696579190832/1826134716",
+      "startappid": "209419592",
+      "pengaturan_iklan": "4",
+      "deskripsi_update": "Update this apps ?",
+      "link_update": "https://play.google.com/store/apps/details?id=com.mrd.anyageraldine",
+      "version_app": 3,
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "hpk_admob1": "",
+      "hpk_admob2": "",
+      "hpk_admob3": "",
+      "hpk_admob4": "",
+      "hpk_admob5": ""
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"BTS Jungkook",
+      "image":"https://muridreborn.github.io/img/jungkook/01.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
+    },
+    {
+      "id":2,
+      "judul":"BTS J-hope",
+      "image":"https://muridreborn.github.io/img/jhope/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjhope"
+    },
+    {
+      "id":3,
+      "judul":"BTS Jimin",
+      "image":"https://muridreborn.github.io/img/jimin/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjimin"
+    },
+    {
+      "id":4,
+      "judul":"BTS RM",
+      "image":"https://muridreborn.github.io/img/rmnamjoon/04.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsrmnamjoon"
+    },
+    {
+      "id":5,
+      "judul":"BTS Suga",
+      "image":"https://muridreborn.github.io/img/suga/05.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btssuga"
+    },
+    {
+      "id":6,
+      "judul":"BTS V",
+      "image":"https://muridreborn.github.io/img/taehyung/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btstaehyung"
+    },
+    {
+      "id":7,
+      "judul":"BTS Jin",
+      "image":"https://muridreborn.github.io/img/jin/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjin"
+    },
+    {
+      "id":8,
+      "judul":"Jennie Blackpink",
+      "image":"https://muridreborn.github.io/img/bpjennie/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.bpjennie"
+    },
+    {
+      "id":9,
+      "judul":"Jisoo Blackpink",
+      "image":"https://muridreborn.github.io/img/bpjisoo/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.bpjisoo"
+    },
+    {
+      "id":10,
+      "judul":"Lisa Blackpink",
+      "image":"https://muridreborn.github.io/img/bplisa/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.bplisa"
+    },
+    {
+      "id":11,
+      "judul":"Rose Blackpink",
+      "image":"https://muridreborn.github.io/img/bprose/06.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.bprose"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Anya Geraldine",
+      "image_url":"https://muridreborn.github.io/img/bpjennie/01.jpg",
+      "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
+    },
+    {
+      "id":2,
+      "name":"Anya Geraldine",
+      "image_url":"https://muridreborn.github.io/img/bpjennie/02.jpg",
+      "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
+    },
+    {
+      "id":3,
+      "name":"Anya Geraldine",
+      "image_url":"https://muridreborn.github.io/img/bpjennie/03.jpg",
+      "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
+    },
+    {
+      "id":4,
+      "name":"Anya Geraldine",
+      "image_url":"https://muridreborn.github.io/img/bpjennie/04.jpg",
+      "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
+    },
+    {
+      "id":5,
+      "name":"Anya Geraldine",
+      "image_url":"https://muridreborn.github.io/img/bpjennie/05.jpg",
+      "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
+    },
+    {
+      "id":6,
+      "name":"Anya Geraldine",
+      "image_url":"https://muridreborn.github.io/img/bpjennie/06.jpg",
+      "video_url":"https://muridreborn.github.io/img/bpjennie/video01.mp4",
+      "voice_url":"https://muridreborn.github.io/img/bplisa/musik01.mp3"
+    }
+  ]
+
+}
