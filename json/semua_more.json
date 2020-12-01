@@ -5,68 +5,80 @@
     {
       "id":1,
       "judul":"BTS Jungkook ",
-      "image":"https://muridreborn.github.io/img/jungkook/01.jpg",
+      "image":"https://muridreborn.github.io/img/more/btsjungkook.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     },
     {
       "id":2,
       "judul":"BTS J-hope",
-      "image":"https://muridreborn.github.io/img/jhope/06.jpg",
+      "image":"https://muridreborn.github.io/img/more/btsjhope.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjhope"
     },
     {
       "id":3,
       "judul":"BTS Jimin",
-      "image":"https://muridreborn.github.io/img/jimin/06.jpg",
+      "image":"https://muridreborn.github.io/img/more/btsjimin.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjimin"
     },
     {
       "id":4,
       "judul":"BTS RM",
-      "image":"https://muridreborn.github.io/img/rmnamjoon/04.jpg",
+      "image":"https://muridreborn.github.io/img/more/btsrm.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btsrmnamjoon"
     },
     {
       "id":5,
       "judul":"BTS Suga",
-      "image":"https://muridreborn.github.io/img/suga/05.jpg",
+      "image":"https://muridreborn.github.io/img/more/btssuga.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btssuga"
     },
     {
       "id":6,
       "judul":"BTS V",
-      "image":"https://muridreborn.github.io/img/taehyung/06.jpg",
+      "image":"https://muridreborn.github.io/img/more/btsv.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btstaehyung"
     },
     {
       "id":7,
       "judul":"BTS Jin",
-      "image":"https://muridreborn.github.io/img/jin/06.jpg",
+      "image":"https://muridreborn.github.io/img/more/btsjin.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjin"
     },
     {
       "id":8,
       "judul":"Jennie Blackpink",
-      "image":"https://muridreborn.github.io/img/bpjennie/06.jpg",
+      "image":"https://muridreborn.github.io/img/more/bpjennie.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.fakecall5"
     },
     {
       "id":9,
       "judul":"Jisoo Blackpink",
-      "image":"https://muridreborn.github.io/img/bpjisoo/06.jpg",
+      "image":"https://muridreborn.github.io/img/more/bpjisoo.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.bpjisoo"
     },
     {
       "id":10,
       "judul":"Lisa Blackpink",
-      "image":"https://muridreborn.github.io/img/bplisa/06.jpg",
+      "image":"https://muridreborn.github.io/img/more/bplisa.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.bplisa"
     },
     {
       "id":11,
       "judul":"Rose Blackpink",
-      "image":"https://muridreborn.github.io/img/bprose/06.jpg",
+      "image":"https://muridreborn.github.io/img/more/bprose.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.bprose"
+    },
+    {
+      "id":12,
+      "judul":"Alwi Assegaf",
+      "image":"https://muridreborn.github.io/img/more/alwi.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.alwiassegaf"
+    },
+    {
+      "id":13,
+      "judul":"Anya Geraldine",
+      "image":"https://muridreborn.github.io/img/more/anya.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.anyageraldine"
     }
   ]
 
