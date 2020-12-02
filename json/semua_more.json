@@ -100,9 +100,9 @@
     },
     {
       "id":17,
-      "judul":"EXO Kay",
-      "image":"https://muridreborn.github.io/img/more/exokay.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mrd.exokay"
+      "judul":"EXO Kai",
+      "image":"https://muridreborn.github.io/img/more/exokai.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.exokai"
     },
     {
       "id":18,
@@ -121,6 +121,54 @@
       "judul":"EXO Suho",
       "image":"https://muridreborn.github.io/img/more/exosuho.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.exosuho"
+    },
+    {
+      "id":21,
+      "judul":"Kylie Jenner",
+      "image":"https://muridreborn.github.io/img/more/kyliejenner.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.kyliejenner"
+    },
+    {
+      "id":22,
+      "judul":"Lee Donghae",
+      "image":"https://muridreborn.github.io/img/more/leedonghae.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.leedonghae"
+    },
+    {
+      "id":23,
+      "judul":"Lee Min Ho",
+      "image":"https://muridreborn.github.io/img/more/leeminho.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.leeminho"
+    },
+    {
+      "id":24,
+      "judul":"Leeteuk",
+      "image":"https://muridreborn.github.io/img/more/leeteuk.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.leeteuk"
+    },
+    {
+      "id":25,
+      "judul":"NAY Fake Call",
+      "image":"https://muridreborn.github.io/img/more/nay.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.nay"
+    },
+    {
+      "id":26,
+      "judul":"Rey Bong dan Sandrinna",
+      "image":"https://muridreborn.github.io/img/more/reybong.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.reybong"
+    },
+    {
+      "id":27,
+      "judul":"NAY Wallpaper",
+      "image":"https://muridreborn.github.io/img/more/wallnay.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.wallnay"
+    },
+    {
+      "id":28,
+      "judul":"Yesung",
+      "image":"https://muridreborn.github.io/img/more/yesung.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.yesung"
     }
   ]
 
