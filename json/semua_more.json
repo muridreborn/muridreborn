@@ -79,6 +79,48 @@
       "judul":"Anya Geraldine",
       "image":"https://muridreborn.github.io/img/more/anya.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.anyageraldine"
+    },
+    {
+      "id":14,
+      "judul":"EXO Baekhyun",
+      "image":"https://muridreborn.github.io/img/more/exobaekhyun.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.exobaekhyun"
+    },
+    {
+      "id":15,
+      "judul":"EXO Chanyeol",
+      "image":"https://muridreborn.github.io/img/more/exochanyeol.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.exochanyeol"
+    },
+    {
+      "id":16,
+      "judul":"EXO D.O",
+      "image":"https://muridreborn.github.io/img/more/exodo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.exodo"
+    },
+    {
+      "id":17,
+      "judul":"EXO Kay",
+      "image":"https://muridreborn.github.io/img/more/exokay.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.exokay"
+    },
+    {
+      "id":18,
+      "judul":"EXO Lay Zhang Yixing",
+      "image":"https://muridreborn.github.io/img/more/exolay.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.exolay"
+    },
+    {
+      "id":19,
+      "judul":"EXO Sehun",
+      "image":"https://muridreborn.github.io/img/more/exosehun.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.exosehun"
+    },
+    {
+      "id":20,
+      "judul":"EXO Suho",
+      "image":"https://muridreborn.github.io/img/more/exosuho.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.exosuho"
     }
   ]
 
