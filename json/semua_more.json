@@ -169,6 +169,54 @@
       "judul":"Yesung",
       "image":"https://muridreborn.github.io/img/more/yesung.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.yesung"
+    },
+    {
+      "id":29,
+      "judul":"Siwon Choi",
+      "image":"https://muridreborn.github.io/img/more/siwonchoi.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.siwonchoi"
+    },
+    {
+      "id":30,
+      "judul":"Aurelie",
+      "image":"https://muridreborn.github.io/img/more/aurelie.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.aurelie"
+    },
+    {
+      "id":31,
+      "judul":"Gisella Anastasia",
+      "image":"https://muridreborn.github.io/img/more/gisellaanastasia.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.gisellaanastasia"
+    },
+    {
+      "id":32,
+      "judul":"Kim Seon Ho",
+      "image":"https://muridreborn.github.io/img/more/kimseonho.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.kimseonho"
+    },
+    {
+      "id":33,
+      "judul":"Via Vallen",
+      "image":"https://muridreborn.github.io/img/more/viavallen.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.viavallen"
+    },
+    {
+      "id":34,
+      "judul":"Cristiano Ronaldo",
+      "image":"https://muridreborn.github.io/img/more/christianoronaldo.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.christianoronaldo"
+    },
+    {
+      "id":35,
+      "judul":"Cek Resi",
+      "image":"https://muridreborn.github.io/img/more/cekresipengiriman.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.cekresipengiriman"
+    },
+    {
+      "id":36,
+      "judul":"Cek Ongkir",
+      "image":"https://muridreborn.github.io/img/more/cekongkir.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.cekongkir"
     }
   ]
 
