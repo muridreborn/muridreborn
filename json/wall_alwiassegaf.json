@@ -6,14 +6,14 @@
       "status": "0",
       "link": "https://play.google.com/store/apps/details?id=com.mrd.wallalwiassegaf",
       
-      "interid": "ca-app-pub-7256696579190832/4657786962",
-      "nativeid": "ca-app-pub-7256696579190832/1826134716",
-      "openads":"ca-app-pub-7256696579190832/7451040068",
+      "interid": "ADMOB_UNIT_IKLAN",
+      "nativeid": "ADMOB_UNIT_IKLAN",
+      "openads":"ADMOB_UNIT_IKLAN",
       "interval": 2,
-      "pengaturan_iklan":"3",
+      "pengaturan_iklan":"2",
 
-      "fan_inter":"FAN_INTRESTITIAL",
-      "fan_banner_native":"FAN_BANNER_NATIVE",
+      "fan_inter":"2775498206113167_2775498266113161",
+      "fan_banner_native":"2775498206113167_2775498269446494",
 
       "startaap":"209419592",
       "mopub_banner":"",
