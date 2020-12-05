@@ -6,11 +6,11 @@
       "status": "0",
       "link": "https://play.google.com/store/apps/details?id=com.mrd.wallreybong",
       
-      "interid": "ADMOB_UNIT_IKLAN",
-      "nativeid": "ADMOB_UNIT_IKLAN",
-      "openads":"ADMOB_UNIT_IKLAN",
+      "interid": "ca-app-pub-7256696579190832/6555235687",
+      "nativeid": "ca-app-pub-7256696579190832/8036656559",
+      "openads":"ca-app-pub-7256696579190832/7902787008",
       "interval": 2,
-      "pengaturan_iklan":"2",
+      "pengaturan_iklan":"1",
 
       "fan_inter":"803946450450317_803946500450312",
       "fan_banner_native":"803946450450317_803946497116979",
