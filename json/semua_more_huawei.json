@@ -1,0 +1,73 @@
+{
+
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"BTS Jungkook",
+      "image":"https://muridreborn.github.io/img/jungkook/01.jpg",
+      "link":"https://appgallery.huawei.com/#/app/C103295747?locale=en_EN&source=appshare&subsource=C103295747"
+    },
+    {
+      "id":2,
+      "judul":"BTS J-hope",
+      "image":"https://muridreborn.github.io/img/jhope/06.jpg",
+      "link":"https://appgallery.huawei.com/#/app/C103294803?locale=en_EN&source=appshare&subsource=C103294803"
+    },
+    {
+      "id":3,
+      "judul":"BTS Jimin",
+      "image":"https://muridreborn.github.io/img/jimin/06.jpg",
+      "link":"https://appgallery.huawei.com/#/app/C103295275?locale=en_EN&source=appshare&subsource=C103295275"
+    },
+    {
+      "id":4,
+      "judul":"BTS RM",
+      "image":"https://muridreborn.github.io/img/rmnamjoon/04.jpg",
+      "link":"https://appgallery.huawei.com/#/app/C103295771?locale=en_EN&source=appshare&subsource=C103295771"
+    },
+    {
+      "id":5,
+      "judul":"BTS Suga",
+      "image":"https://muridreborn.github.io/img/suga/05.jpg",
+      "link":"https://appgallery.huawei.com/#/app/C103295797?locale=en_EN&source=appshare&subsource=C103295797"
+    },
+    {
+      "id":6,
+      "judul":"BTS V",
+      "image":"https://muridreborn.github.io/img/taehyung/06.jpg",
+      "link":"https://appgallery.huawei.com/#/app/C103295817?locale=en_EN&source=appshare&subsource=C103295817"
+    },
+    {
+      "id":7,
+      "judul":"BTS Jin",
+      "image":"https://muridreborn.github.io/img/jin/06.jpg",
+      "link":"https://appgallery.huawei.com/#/app/C103295845?locale=en_EN&source=appshare&subsource=C103295845"
+    },
+    {
+      "id":8,
+      "judul":"Jennie Blackpink",
+      "image":"https://muridreborn.github.io/img/bpjennie/06.jpg",
+      "link":"https://appgallery.huawei.com/#/app/C103262729?locale=en_EN&source=appshare&subsource=C103262729"
+    },
+    {
+      "id":9,
+      "judul":"Jisoo Blackpink",
+      "image":"https://muridreborn.github.io/img/bpjisoo/06.jpg",
+      "link":"https://appgallery.huawei.com/#/app/C103283769?locale=en_EN&source=appshare&subsource=C103283769"
+    },
+    {
+      "id":10,
+      "judul":"Lisa Blackpink",
+      "image":"https://muridreborn.github.io/img/bplisa/06.jpg",
+      "link":"https://appgallery.huawei.com/#/app/C103262875?locale=en_EN&source=appshare&subsource=C103262875"
+    },
+    {
+      "id":11,
+      "judul":"Rose Blackpink",
+      "image":"https://muridreborn.github.io/img/bprose/06.jpg",
+      "link":"https://appgallery.huawei.com/#/app/C103287933?locale=en_EN&source=appshare&subsource=C103287933"
+    }
+  ]
+
+}
