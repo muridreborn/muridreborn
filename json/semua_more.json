@@ -217,6 +217,48 @@
       "judul":"Cek Ongkir",
       "image":"https://muridreborn.github.io/img/more/cekongkir.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.cekongkir"
+    },
+    {
+      "id":37,
+      "judul":"Sandrinna HD Wallpaper",
+      "image":"https://muridreborn.github.io/img/more/wallsandrinna.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.wallsandrinna"
+    },
+    {
+      "id":38,
+      "judul":"Rey Bong HD Wallpaper",
+      "image":"https://muridreborn.github.io/img/more/wallreybong.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.wallreybong"
+    },
+    {
+      "id":39,
+      "judul":"Landscape HD Wallpaper",
+      "image":"https://muridreborn.github.io/img/more/walllandscape.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.walllandscape"
+    },
+    {
+      "id":40,
+      "judul":"Alwi Assegaf HD Wallpaper",
+      "image":"https://muridreborn.github.io/img/more/wallalwiassegaf.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.wallalwiassegaf"
+    },
+    {
+      "id":41,
+      "judul":"Betrand Peto Video Call",
+      "image":"https://muridreborn.github.io/img/more/betrandpeto.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.betrandpeto"
+    },
+    {
+      "id":42,
+      "judul":"Lesti Kejora Video Call",
+      "image":"https://muridreborn.github.io/img/more/lestikejora.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.lestikejora"
+    },
+    {
+      "id":43,
+      "judul":"Architecture HD Wallpaper",
+      "image":"https://muridreborn.github.io/img/more/wallarchitecture.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.mrd.wallarchitecture"
     }
   ]
 
