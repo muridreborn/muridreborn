@@ -2,16 +2,11 @@
   "Iklan": [
       {
       "status": "0",
-      "link": "https://play.google.com/store/apps/details?id=com.mrd.btsjin",
-      "appid": "pub-7256696579190832",
-      "admobappid": "ca-app-pub-7256696579190832~6796487841",
+      "link": "https://play.google.com/store/apps/details?id=",
       "interid": "ca-app-pub-7256696579190832/5511821171",
       "nativeid": "ca-app-pub-7256696579190832/9427671990",
       "startappid": "209419592",
       "pengaturan_iklan": "1",
-      "deskripsi_update": "Update this applications?",
-      "link_update": "https://play.google.com/store/apps/details?id=com.mrd.btstaehyung",
-      "version_app": 2,
       "fan_inter": "1120372565086865_1120372635086858",
       "fan_banner_native": "1120372565086865_1120372631753525",
       "fan_native": "1120372565086865_1120372638420191",
@@ -21,91 +16,5 @@
       "hpk_admob4": "",
       "hpk_admob5": ""
       }
-   ],
-
-  "More":
-  [
-    {
-      "id":1,
-      "judul":"BTS Jungkook",
-      "image":"https://muridreborn.github.io/img/jungkook/01.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
-    },
-    {
-      "id":2,
-      "judul":"BTS J-hope",
-      "image":"https://muridreborn.github.io/img/jhope/06.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjhope"
-    },
-    {
-      "id":3,
-      "judul":"BTS Jimin",
-      "image":"https://muridreborn.github.io/img/jimin/06.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjimin"
-    },
-    {
-      "id":4,
-      "judul":"BTS RM",
-      "image":"https://muridreborn.github.io/img/rmnamjoon/04.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mrd.btsrmnamjoon"
-    },
-    {
-      "id":5,
-      "judul":"BTS Suga",
-      "image":"https://muridreborn.github.io/img/suga/05.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mrd.btssuga"
-    },
-    {
-      "id":6,
-      "judul":"BTS V",
-      "image":"https://muridreborn.github.io/img/taehyung/06.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.mrd.btstaehyung"
-    }
-  ],
-  "Item":
-  [
-    {
-      "id":1,
-      "name":"BTS Taehyung",
-      "image_url":"https://muridreborn.github.io/img/taehyung/01.jpg",
-      "video_url":"https://muridreborn.github.io/img/taehyung/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
-    },
-    {
-      "id":2,
-      "name":"BTS Taehyung",
-      "image_url":"https://muridreborn.github.io/img/taehyung/02.jpg",
-      "video_url":"https://muridreborn.github.io/img/taehyung/video02.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
-    },
-    {
-      "id":3,
-      "name":"BTS Taehyung",
-      "image_url":"https://muridreborn.github.io/img/taehyung/03.jpg",
-      "video_url":"https://muridreborn.github.io/img/taehyung/video03.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
-    },
-    {
-      "id":4,
-      "name":"BTS Taehyung",
-      "image_url":"https://muridreborn.github.io/img/taehyung/04.jpg",
-      "video_url":"https://muridreborn.github.io/img/taehyung/video01.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
-    },
-    {
-      "id":5,
-      "name":"BTS Taehyung",
-      "image_url":"https://muridreborn.github.io/img/taehyung/05.jpg",
-      "video_url":"https://muridreborn.github.io/img/taehyung/video02.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
-    },
-    {
-      "id":6,
-      "name":"BTS Taehyung",
-      "image_url":"https://muridreborn.github.io/img/taehyung/06.jpg",
-      "video_url":"https://muridreborn.github.io/img/taehyung/video03.mp4",
-      "voice_url":"https://muridreborn.github.io/img/jungkook/musik01.mp3"
-    }
-  ]
-
+   ]
 }
