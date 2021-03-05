@@ -2,16 +2,11 @@
   "Iklan": [
       {
       "status": "0",
-      "link": "https://play.google.com/store/apps/details?id=com.mrd.btsjin",
-      "appid": "pub-7256696579190832",
-      "admobappid": "ca-app-pub-7256696579190832~9999060209",
+      "link": "https://play.google.com/store/apps/details?id=",
       "interid": "ca-app-pub-7256696579190832/4686383144",
       "nativeid": "ca-app-pub-7256696579190832/7372896863",
       "startappid": "209419592",
       "pengaturan_iklan": "1",
-      "deskripsi_update": "Update this apps ?",
-      "link_update": "https://play.google.com/store/apps/details?id=com.mrd.leeminho",
-      "version_app": 1,
       "fan_inter": "DITOLAK_FACEBOOK",
       "fan_banner_native": "DITOLAK_FACEBOOK",
       "fan_native": "DITOLAK_FACEBOOK",
@@ -22,5 +17,4 @@
       "hpk_admob5": ""
       }
    ]
-
 }

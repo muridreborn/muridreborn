@@ -2,16 +2,11 @@
   "Iklan": [
       {
       "status": "0",
-      "link": "https://play.google.com/store/apps/details?id=com.mrd.btsjin",
-      "appid": "pub-7256696579190832",
-      "admobappid": "ca-app-pub-7256696579190832~7909815424",
+      "link": "https://play.google.com/store/apps/details?id=",
       "interid": "ca-app-pub-7256696579190832/1511912126",
       "nativeid": "ca-app-pub-7256696579190832/5962293024",
       "startappid": "209419592",
       "pengaturan_iklan": "1",
-      "deskripsi_update": "Update this apps ?",
-      "link_update": "https://play.google.com/store/apps/details?id=com.mrd.lestikejora",
-      "version_app": 1,
       "fan_inter": "219014229605926_219014266272589",
       "fan_banner_native": "219014229605926_219014262939256",
       "fan_native": "219014229605926_219014269605922",
@@ -22,5 +17,4 @@
       "hpk_admob5": ""
       }
    ]
-
 }
