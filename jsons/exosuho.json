@@ -1,0 +1,22 @@
+{
+   "Ads":
+   [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+
+      "select_ads": "ADMOB",
+      "admob_inter": "ca-app-pub-7256696579190832/5140920545",
+      "admob_native": "ca-app-pub-7256696579190832/8832753542",
+      
+      "fan_banner_native": "377765653656220_377765686989550",
+      "fan_inter": "377765653656220_377765690322883",
+      "fan_native": "377765653656220_377765693656216",
+
+      "mopub_banner": "YOUR_PLACEMENT_ID",
+      "mopub_inter": "YOUR_PLACEMENT_ID",
+      "startappid": "205065498",
+      "interval":4
+      }
+   ]
+}
