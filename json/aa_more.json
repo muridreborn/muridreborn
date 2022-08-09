@@ -4,260 +4,260 @@
   [
     {
       "id":1,
-      "judul":"BTS Jungkook ",
-      "image":"https://muridreborn.github.io/img/more/btsjungkook.jpg",
+      "title":"Jungkook BTS",
+      "image":"https://muridreborn.github.io/img/btsjungkook.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjungkook"
     },
     {
       "id":2,
-      "judul":"BTS J-hope",
-      "image":"https://muridreborn.github.io/img/more/btsjhope.jpg",
+      "title":"J-hope BTS",
+      "image":"https://muridreborn.github.io/img/btsjhope.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjhope"
     },
     {
       "id":3,
-      "judul":"BTS Jimin",
-      "image":"https://muridreborn.github.io/img/more/btsjimin.jpg",
+      "title":"Jimin BTS",
+      "image":"https://muridreborn.github.io/img/btsjimin.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjimin"
     },
     {
       "id":4,
-      "judul":"BTS RM",
-      "image":"https://muridreborn.github.io/img/more/btsrm.jpg",
+      "title":"RM BTS",
+      "image":"https://muridreborn.github.io/img/btsrmnamjoon.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btsrmnamjoon"
     },
     {
       "id":5,
-      "judul":"BTS Suga",
-      "image":"https://muridreborn.github.io/img/more/btssuga.jpg",
+      "title":"Suga BTS",
+      "image":"https://muridreborn.github.io/img/btssuga.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btssuga"
     },
     {
       "id":6,
-      "judul":"BTS V",
-      "image":"https://muridreborn.github.io/img/more/btsv.jpg",
+      "title":"V BTS",
+      "image":"https://muridreborn.github.io/img/btstaehyung.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btstaehyung"
     },
     {
       "id":7,
-      "judul":"BTS Jin",
-      "image":"https://muridreborn.github.io/img/more/btsjin.jpg",
+      "title":"Jin BTS",
+      "image":"https://muridreborn.github.io/img/btsjin.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.btsjin"
     },
     {
       "id":8,
-      "judul":"Jennie Blackpink",
-      "image":"https://muridreborn.github.io/img/more/bpjennie.jpg",
+      "title":"Jennie Blackpink",
+      "image":"https://muridreborn.github.io/img/fakecall5.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.fakecall5"
     },
     {
       "id":9,
-      "judul":"Jisoo Blackpink",
-      "image":"https://muridreborn.github.io/img/more/bpjisoo.jpg",
+      "title":"Jisoo Blackpink",
+      "image":"https://muridreborn.github.io/img/bpjisoo.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.bpjisoo"
     },
     {
       "id":10,
-      "judul":"Lisa Blackpink",
-      "image":"https://muridreborn.github.io/img/more/bplisa.jpg",
+      "title":"Lisa Blackpink",
+      "image":"https://muridreborn.github.io/img/bplisa.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.bplisa"
     },
     {
       "id":11,
-      "judul":"Rose Blackpink",
-      "image":"https://muridreborn.github.io/img/more/bprose.jpg",
+      "title":"Rose Blackpink",
+      "image":"https://muridreborn.github.io/img/bprose.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.bprose"
     },
     {
       "id":12,
-      "judul":"Alwi Assegaf",
-      "image":"https://muridreborn.github.io/img/more/alwi.jpg",
+      "title":"Alwi Assegaf",
+      "image":"https://muridreborn.github.io/img/alwiassegaf.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.alwiassegaf"
     },
     {
       "id":13,
-      "judul":"Anya Geraldine",
-      "image":"https://muridreborn.github.io/img/more/anya.jpg",
+      "title":"Anya Geraldine",
+      "image":"https://muridreborn.github.io/img/anyageraldine.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.anyageraldine"
     },
     {
       "id":14,
-      "judul":"EXO Baekhyun",
-      "image":"https://muridreborn.github.io/img/more/exobaekhyun.jpg",
+      "title":"EXO Baekhyun",
+      "image":"https://muridreborn.github.io/img/exobaekhyun.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.exobaekhyun"
     },
     {
       "id":15,
-      "judul":"EXO Chanyeol",
-      "image":"https://muridreborn.github.io/img/more/exochanyeol.jpg",
+      "title":"EXO Chanyeol",
+      "image":"https://muridreborn.github.io/img/exochanyeol.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.exochanyeol"
     },
     {
       "id":16,
-      "judul":"EXO D.O",
-      "image":"https://muridreborn.github.io/img/more/exodo.jpg",
+      "title":"EXO D.O",
+      "image":"https://muridreborn.github.io/img/exodo.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.exodo"
     },
     {
       "id":17,
-      "judul":"EXO Kai",
-      "image":"https://muridreborn.github.io/img/more/exokai.jpg",
+      "title":"EXO Kai",
+      "image":"https://muridreborn.github.io/img/exokai.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.exokai"
     },
     {
       "id":18,
-      "judul":"EXO Lay Zhang Yixing",
-      "image":"https://muridreborn.github.io/img/more/exolay.jpg",
+      "title":"EXO Lay Zhang Yixing",
+      "image":"https://muridreborn.github.io/img/exolay.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.exolay"
     },
     {
       "id":19,
-      "judul":"EXO Sehun",
-      "image":"https://muridreborn.github.io/img/more/exosehun.jpg",
+      "title":"EXO Sehun",
+      "image":"https://muridreborn.github.io/img/exosehun.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.exosehun"
     },
     {
       "id":20,
-      "judul":"EXO Suho",
-      "image":"https://muridreborn.github.io/img/more/exosuho.jpg",
+      "title":"EXO Suho",
+      "image":"https://muridreborn.github.io/img/exosuho.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.exosuho"
     },
     {
       "id":21,
-      "judul":"Kylie Jenner",
-      "image":"https://muridreborn.github.io/img/more/kyliejenner.jpg",
+      "title":"Kylie Jenner",
+      "image":"https://muridreborn.github.io/img/kyliejenner.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.kyliejenner"
     },
     {
       "id":22,
-      "judul":"Lee Donghae",
-      "image":"https://muridreborn.github.io/img/more/leedonghae.jpg",
+      "title":"Lee Donghae",
+      "image":"https://muridreborn.github.io/img/leedonghae.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.leedonghae"
     },
     {
       "id":23,
-      "judul":"Lee Min Ho",
-      "image":"https://muridreborn.github.io/img/more/leeminho.jpg",
+      "title":"Lee Min Ho",
+      "image":"https://muridreborn.github.io/img/leeminho.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.leeminho"
     },
     {
       "id":24,
-      "judul":"Leeteuk",
-      "image":"https://muridreborn.github.io/img/more/leeteuk.jpg",
+      "title":"Leeteuk",
+      "image":"https://muridreborn.github.io/img/leeteuk.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.leeteuk"
     },
     {
       "id":25,
-      "judul":"NAY Fake Call",
-      "image":"https://muridreborn.github.io/img/more/nay.jpg",
+      "title":"NAY Fake Call",
+      "image":"https://muridreborn.github.io/img/nay.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.nay"
     },
     {
       "id":26,
-      "judul":"Rey Bong dan Sandrinna",
-      "image":"https://muridreborn.github.io/img/more/reybong.jpg",
+      "title":"Rey Bong dan Sandrinna",
+      "image":"https://muridreborn.github.io/img/reybong.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.reybong"
     },
     {
       "id":27,
-      "judul":"NAY Wallpaper",
-      "image":"https://muridreborn.github.io/img/more/wallnay.jpg",
+      "title":"NAY Wallpaper",
+      "image":"https://muridreborn.github.io/img/wallnay.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.wallnay"
     },
     {
       "id":28,
-      "judul":"Yesung",
-      "image":"https://muridreborn.github.io/img/more/yesung.jpg",
+      "title":"Yesung",
+      "image":"https://muridreborn.github.io/img/yesung.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.yesung"
     },
     {
       "id":29,
-      "judul":"Siwon Choi",
-      "image":"https://muridreborn.github.io/img/more/siwonchoi.jpg",
+      "title":"Siwon Choi",
+      "image":"https://muridreborn.github.io/img/siwonchoi.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.siwonchoi"
     },
     {
       "id":30,
-      "judul":"Aurelie",
-      "image":"https://muridreborn.github.io/img/more/aurelie.jpg",
+      "title":"Aurelie",
+      "image":"https://muridreborn.github.io/img/aurelie.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.aurelie"
     },
     {
       "id":31,
-      "judul":"Gisella Anastasia",
-      "image":"https://muridreborn.github.io/img/more/gisellaanastasia.jpg",
+      "title":"Gisella Anastasia",
+      "image":"https://muridreborn.github.io/img/gisellaanastasia.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.gisellaanastasia"
     },
     {
       "id":32,
-      "judul":"Kim Seon Ho",
-      "image":"https://muridreborn.github.io/img/more/kimseonho.jpg",
+      "title":"Kim Seon Ho",
+      "image":"https://muridreborn.github.io/img/kimseonho.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.kimseonho"
     },
     {
       "id":33,
-      "judul":"Via Vallen",
-      "image":"https://muridreborn.github.io/img/more/viavallen.jpg",
+      "title":"Via Vallen",
+      "image":"https://muridreborn.github.io/img/viavallen.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.viavallen"
     },
     {
       "id":34,
-      "judul":"Cristiano Ronaldo",
-      "image":"https://muridreborn.github.io/img/more/christianoronaldo.jpg",
+      "title":"Cristiano Ronaldo",
+      "image":"https://muridreborn.github.io/img/christianoronaldo.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.christianoronaldo"
     },
     {
       "id":35,
-      "judul":"Cek Resi",
-      "image":"https://muridreborn.github.io/img/more/cekresipengiriman.jpg",
+      "title":"Cek Resi",
+      "image":"https://muridreborn.github.io/img/cekresipengiriman.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.cekresipengiriman"
     },
     {
       "id":36,
-      "judul":"Cek Ongkir",
-      "image":"https://muridreborn.github.io/img/more/cekongkir.jpg",
+      "title":"Cek Ongkir",
+      "image":"https://muridreborn.github.io/img/cekongkir.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.cekongkir"
     },
     {
       "id":37,
-      "judul":"Sandrinna HD Wallpaper",
-      "image":"https://muridreborn.github.io/img/more/wallsandrinna.jpg",
+      "title":"Sandrinna HD Wallpaper",
+      "image":"https://muridreborn.github.io/img/wallsandrinna.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.wallsandrinna"
     },
     {
       "id":38,
-      "judul":"Rey Bong HD Wallpaper",
-      "image":"https://muridreborn.github.io/img/more/wallreybong.jpg",
+      "title":"Rey Bong HD Wallpaper",
+      "image":"https://muridreborn.github.io/img/wallreybong.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.wallreybong"
     },
     {
       "id":39,
-      "judul":"Landscape HD Wallpaper",
-      "image":"https://muridreborn.github.io/img/more/walllandscape.jpg",
+      "title":"Landscape HD Wallpaper",
+      "image":"https://muridreborn.github.io/img/walllandscape.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.walllandscape"
     },
     {
       "id":40,
-      "judul":"Alwi Assegaf HD Wallpaper",
-      "image":"https://muridreborn.github.io/img/more/wallalwiassegaf.jpg",
+      "title":"Alwi Assegaf HD Wallpaper",
+      "image":"https://muridreborn.github.io/img/wallalwiassegaf.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.wallalwiassegaf"
     },
     {
       "id":41,
-      "judul":"Betrand Peto Video Call",
-      "image":"https://muridreborn.github.io/img/more/betrandpeto.jpg",
+      "title":"Betrand Peto Video Call",
+      "image":"https://muridreborn.github.io/img/betrandpeto.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.betrandpeto"
     },
     {
       "id":42,
-      "judul":"Lesti Kejora Video Call",
-      "image":"https://muridreborn.github.io/img/more/lestikejora.jpg",
+      "title":"Lesti Kejora Video Call",
+      "image":"https://muridreborn.github.io/img/lestikejora.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.lestikejora"
     },
     {
       "id":43,
-      "judul":"Architecture HD Wallpaper",
-      "image":"https://muridreborn.github.io/img/more/wallarchitecture.jpg",
+      "title":"Architecture HD Wallpaper",
+      "image":"https://muridreborn.github.io/img/wallarchitecture.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.mrd.wallarchitecture"
     }
   ]
