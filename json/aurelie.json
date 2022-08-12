@@ -9,11 +9,11 @@
       "main_ads_intertitial"      : "ca-app-pub-7256696579190832/5487910067",
       "main_ads_native"           : "ca-app-pub-7256696579190832/6521612526",
 
-      "open_ads"                  : "YOUR_PLACEMENT_ID",
+      "open_ads"                  : "ca-app-pub-7256696579190832/3284411685",
 
       "backup_ads_banner"         : "YOUR_PLACEMENT_ID",
-      "backup_ads_intertitial"    : "YOUR_PLACEMENT_ID",
-      "backup_ads_native"         : "YOUR_PLACEMENT_ID",
+      "backup_ads_intertitial"    : "ed589fc35571dc14",
+      "backup_ads_native"         : "af63bc5fcdd269fc",
       
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
