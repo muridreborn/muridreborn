@@ -6,14 +6,14 @@
       "select_backup_ads"         : "APPLOVIN-M",
 
       "main_ads_banner"           : "YOUR_PLACEMENT_ID",
-      "main_ads_intertitial"      : "ca-app-pub-7256696579190832/6400061701",
-      "main_ads_native"           : "ca-app-pub-7256696579190832/8148435258",
+      "main_ads_intertitial"      : "ca-app-pub-7256696579190832/5787518303",
+      "main_ads_native"           : "ca-app-pub-7256696579190832/2075697521",
 
-      "open_ads"                  : "ca-app-pub-7256696579190832/5477932351",
+      "open_ads"                  : "ca-app-pub-7256696579190832/9922011180",
 
       "backup_ads_banner"         : "YOUR_PLACEMENT_ID",
-      "backup_ads_intertitial"    : "c67ddbd2cdef1541",
-      "backup_ads_native"         : "45dc5357d05ef102",
+      "backup_ads_intertitial"    : "60b58ca1efc1bb6a",
+      "backup_ads_native"         : "a26906644791d161",
       
       "initialize_sdk"            : "",
       "initialize_sdk_backup_ads" : "",
